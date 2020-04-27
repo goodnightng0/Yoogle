@@ -1,0 +1,21 @@
+#hello {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 400px;
+  height: 400px;
+
+  background-color: rebeccapurple;
+
+  padding: 10px 10px 10px 10px;
+  border: 20px solid black;
+  margin: 10px 10px 10px 10px;
+}
+.elem {
+  width: 20px;
+  height: 30px;
+
+  background-color: white;
+  margin: 5px;
+}
