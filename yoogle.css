@@ -186,24 +186,53 @@ body {
   font-size: 21px;
   line-height: 59px;
 }
+.last-left {
+  display: inline-block;
+}
 #last1 {
   padding-left: 43px;
+}
+#last1:hover {
+  text-decoration: underline;
 }
 #last2 {
   padding-left: 34px;
 }
+#last2:hover {
+  text-decoration: underline;
+}
 #last3 {
   padding-left: 34px;
+}
+#last3:hover {
+  text-decoration: underline;
 }
 #last4 {
   padding-left: 34px;
 }
+#last4:hover {
+  text-decoration: underline;
+}
+.last-right {
+  display: inline-block;
+  padding-right: 40px;
+  float: right;
+}
 #last5 {
-  padding-left: 1010px;
+  padding-left: 34px;
+}
+#last5:hover {
+  text-decoration: underline;
 }
 #last6 {
   padding-left: 34px;
 }
+#last6:hover {
+  text-decoration: underline;
+}
 #last7 {
   padding-left: 34px;
+}
+#last7:hover {
+  text-decoration: underline;
 }
