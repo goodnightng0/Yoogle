@@ -12,13 +12,12 @@ body {
   padding-left: 30px;
   padding-right: 10px;
   text-align: right;
-  padding-top: 3px;
 }
 .gmail {
   font-size: 12px;
   color: #414141;
   line-height: 60px;
-  margin: 0px 10px;
+  margin: 0px 15px;
 }
 .gmail:hover {
   text-decoration: underline;
@@ -27,7 +26,7 @@ body {
   font-size: 12px;
   color: #212121;
   line-height: 60px;
-  margin-right: 10px;
+  margin-right: 15px;
 }
 .img:hover {
   text-decoration: underline;
@@ -51,7 +50,7 @@ body {
   height: 30px;
   font-size: 12px;
   margin-top: 15px;
-  margin-right: 13px;
+  margin-right: 20px;
 }
 .middle {
   text-align: center;
@@ -177,12 +176,12 @@ body {
 .first {
   background-color: #f2f2f2;
   height: 40px;
-  border: 2px solid #e4e4e4;
+  border: 1px solid #e4e4e4;
 }
 #country {
   color: #6f6f6f;
   font-size: 15px;
-  padding-left: 43px;
+  padding-left: 27px;
   line-height: 40px;
 }
 .last {
@@ -196,48 +195,48 @@ body {
   display: inline-block;
 }
 #last1 {
-  padding-left: 29px;
+  padding-left: 30px;
 }
 #last1:hover {
   text-decoration: underline;
 }
 #last2 {
-  padding-left: 29px;
+  padding-left: 27px;
 }
 #last2:hover {
   text-decoration: underline;
 }
 #last3 {
-  padding-left: 29px;
+  padding-left: 27px;
 }
 #last3:hover {
   text-decoration: underline;
 }
 #last4 {
-  padding-left: 29px;
+  padding-left: 27px;
 }
 #last4:hover {
   text-decoration: underline;
 }
 .last-right {
   display: inline-block;
-  padding-right: 40px;
+  padding-right: 43px;
   float: right;
 }
 #last5 {
-  padding-left: 29px;
+  padding-left: 27px;
 }
 #last5:hover {
   text-decoration: underline;
 }
 #last6 {
-  padding-left: 29px;
+  padding-left: 27px;
 }
 #last6:hover {
   text-decoration: underline;
 }
 #last7 {
-  padding-left: 29px;
+  padding-left: 27px;
 }
 #last7:hover {
   text-decoration: underline;
