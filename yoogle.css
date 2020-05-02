@@ -70,13 +70,14 @@ body {
   display: flex;
   align-items: center;
   margin-top: 13px;
+  justify-content: flex-end;
 }
 .search-bar:hover {
   box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.35);
   border-color: rgba(223, 225, 229, 0);
 }
 .icon {
-  padding-bottom: 6px;
+  padding-top: 6px;
   fill: #9aa0a6;
   padding-left: 5px;
   width: 22px;
@@ -86,17 +87,19 @@ body {
   padding-bottom: 6px;
   border-width: 0px;
   outline: none;
-  width: 340px;
+  width: 447px;
   height: 34px;
   font-size: 23px;
   padding-right: 20px;
 }
 #key-board {
+  padding-top: 6px;
   margin-left: 56px;
   margin-bottom: 4px;
   padding: 0 0px;
 }
 #microphone {
+  padding-top: 6px;
   padding: 0 8px;
   margin-left: 20px;
   margin-bottom: 4px;
@@ -157,9 +160,9 @@ body {
   text-decoration: underline;
 }
 .language {
-  padding-top: 30px;
+  padding-top: 40px;
   font-size: 14px;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 #english {
   color: #1a0dab;
@@ -168,7 +171,7 @@ body {
   text-decoration: underline;
 }
 .bottom {
-  height: 80px;
+  height: 81px;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -182,14 +185,14 @@ body {
   color: #6f6f6f;
   font-size: 15px;
   padding-left: 27px;
-  line-height: 40px;
+  line-height: 35px;
 }
 .last {
   background-color: #f2f2f2;
-  height: 40px;
+  height: 41px;
   color: #6f6f6f;
   font-size: 14px;
-  line-height: 40px;
+  line-height: 35px;
 }
 .last-left {
   display: inline-block;
@@ -201,42 +204,43 @@ body {
   text-decoration: underline;
 }
 #last2 {
-  padding-left: 27px;
+  padding-left: 23px;
 }
 #last2:hover {
   text-decoration: underline;
 }
 #last3 {
-  padding-left: 27px;
+  padding-left: 23px;
 }
 #last3:hover {
   text-decoration: underline;
 }
 #last4 {
-  padding-left: 27px;
+  padding-left: 23px;
 }
 #last4:hover {
   text-decoration: underline;
 }
 .last-right {
   display: inline-block;
-  padding-right: 43px;
+  padding-right: 30px;
   float: right;
+  padding-bottom: 2px;
 }
 #last5 {
-  padding-left: 27px;
+  padding-left: 23px;
 }
 #last5:hover {
   text-decoration: underline;
 }
 #last6 {
-  padding-left: 27px;
+  padding-left: 23;
 }
 #last6:hover {
   text-decoration: underline;
 }
 #last7 {
-  padding-left: 27px;
+  padding-left: 23px;
 }
 #last7:hover {
   text-decoration: underline;
