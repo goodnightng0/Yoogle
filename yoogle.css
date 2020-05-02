@@ -1,9 +1,15 @@
 html,
 body {
   margin: 0;
+  height: 100%;
+  overflow: hidden;
 }
 body {
-  font-family: "apple sd gothic neo", sans-serif;
+  /*font-family: "apple sd gothic neo", sans-serif;*/
+}
+.wrapper {
+  height: 100%;
+  overflow: hidden;
 }
 .upper-right {
   height: 80px;
