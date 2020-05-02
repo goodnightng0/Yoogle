@@ -1,6 +1,7 @@
 html,
 body {
   margin: 0px;
+  height: 100%;
 }
 .upper-right {
   height: 80px;
@@ -60,7 +61,7 @@ body {
   padding-top: 132px;
 }
 .search-bar {
-  padding: 5px 8px 0 16px;
+  padding: 5px 8px 10px 16px;
   border: 2px solid #dfe1e5;
   border-radius: 45px;
   height: 60px;
@@ -105,7 +106,7 @@ body {
   height: 65%;
 }
 .two {
-  margin-top: 34px;
+  margin-top: 24px;
   height: 60px;
   width: 848px;
   display: flex;
@@ -168,6 +169,9 @@ body {
 }
 .bottom {
   height: 118px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 .first {
   background-color: #f2f2f2;
