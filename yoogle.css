@@ -169,52 +169,52 @@ body {
   text-decoration: underline;
 }
 .bottom {
-  height: 118px;
+  height: 80px;
   position: fixed;
   bottom: 0;
   width: 100%;
 }
 .first {
   background-color: #f2f2f2;
-  height: 59px;
+  height: 40px;
   border: 2px solid #e4e4e4;
 }
 #country {
   color: #6f6f6f;
-  font-size: 23px;
+  font-size: 15px;
   padding-left: 43px;
-  line-height: 59px;
+  line-height: 40px;
 }
 .last {
   background-color: #f2f2f2;
-  height: 59px;
+  height: 40px;
   color: #6f6f6f;
-  font-size: 21px;
-  line-height: 59px;
+  font-size: 15px;
+  line-height: 40px;
 }
 .last-left {
   display: inline-block;
 }
 #last1 {
-  padding-left: 43px;
+  padding-left: 29px;
 }
 #last1:hover {
   text-decoration: underline;
 }
 #last2 {
-  padding-left: 34px;
+  padding-left: 29px;
 }
 #last2:hover {
   text-decoration: underline;
 }
 #last3 {
-  padding-left: 34px;
+  padding-left: 29px;
 }
 #last3:hover {
   text-decoration: underline;
 }
 #last4 {
-  padding-left: 34px;
+  padding-left: 29px;
 }
 #last4:hover {
   text-decoration: underline;
@@ -225,19 +225,19 @@ body {
   float: right;
 }
 #last5 {
-  padding-left: 34px;
+  padding-left: 29px;
 }
 #last5:hover {
   text-decoration: underline;
 }
 #last6 {
-  padding-left: 34px;
+  padding-left: 29px;
 }
 #last6:hover {
   text-decoration: underline;
 }
 #last7 {
-  padding-left: 34px;
+  padding-left: 29px;
 }
 #last7:hover {
   text-decoration: underline;
