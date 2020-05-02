@@ -1,8 +1,7 @@
 html,
 body {
   margin: 0;
-  height: 100%;
-  overflow: hidden;
+  height: 100vh;
 }
 body {
   /*font-family: "apple sd gothic neo", sans-serif;*/
@@ -60,12 +59,13 @@ body {
   margin-right: 13px;
 }
 .middle {
-  position: relative;
-  top: 132px;
   text-align: center;
   flex-direction: column;
   display: flex;
   align-items: center;
+}
+#logo {
+  padding-top: 132px;
 }
 .search-bar {
   padding: 5px 8px 0 16px;
@@ -166,6 +166,7 @@ body {
 .language {
   padding-top: 53px;
   font-size: 20px;
+  padding-bottom: 70px;
 }
 #english {
   color: #1a0dab;
@@ -174,7 +175,9 @@ body {
   text-decoration: underline;
 }
 .bottom {
-  margin-top: 200px;
+  height: 118px;
+}
+.first {
   background-color: #f2f2f2;
   height: 59px;
   border: 2px solid #e4e4e4;
